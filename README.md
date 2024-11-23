@@ -1,7 +1,7 @@
 # 안녕하세요! 👋
 
 Nest.js를 활용한 백엔드 개발자를 목표로 공부하고 있습니다. 
-기술 블로그에서 학습 내용을 정리하고 있습니다.
+기술 블로그에서 학습 내용을 꾸준하게 정리하고 있습니다.
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 
