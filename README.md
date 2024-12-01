@@ -1,7 +1,6 @@
 # 👋
 
-Nest.js를 활용한 백엔드 개발자를 목표로 공부하고 있으며,  
-[![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)에서 학습 내용을 꾸준히 정리하고 있습니다.
+[![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge)
 
