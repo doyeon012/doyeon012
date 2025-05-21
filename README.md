@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Doyeon Kim
-### I'm a backend developer who enjoys learning and solving problems.  
+### I'm a backend developer.
 ### I make sure to document what I learn as I grow through backend development.
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
