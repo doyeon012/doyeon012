@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Doyeon Kim
+## 😀 Hi there! I'm Doyeon Kim
 ### I'm a Backend Developer.
 ### I make sure to document what I learn as I grow through backend development.
 
@@ -21,6 +21,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Infra & DevOps
+### Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
