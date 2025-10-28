@@ -1,11 +1,11 @@
-## 😀 Hi there! I'm Doyeon Kim
+## Hi there! I'm Doyeon Kim
 ### I'm a Software Engineer.
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Framework & Language
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
