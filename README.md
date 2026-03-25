@@ -105,6 +105,12 @@
 
 </div>
 
-<br/>
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/doyeon012/doyeon012/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer" width="100%" />
