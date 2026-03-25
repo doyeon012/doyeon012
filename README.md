@@ -52,7 +52,7 @@
     <td align="center">📅</td>
     <td><a href="https://github.com/doyeon012/MoEasy-backend#readme"><b>MoEasy</b></a></td>
     <td>모임을 더 쉽게 도와주는 웹 서비스</td>
-    <td align="center"><code>NestJS</code> <code>TypeScript</code></td>
+    <td align="center"><code>NestJS</code> <code>TypeScript</code> <code>Docker</code></td>
   </tr>
   <tr>
     <td align="center">👥</td>
