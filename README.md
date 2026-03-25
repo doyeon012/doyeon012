@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6B9FE8,100:1a1b27&height=220&section=header&text=Kim%20Doyeon&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=22&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=220&section=header&text=Kim%20Doyeon&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=22&descAlignY=55&descAlign=50" width="100%" />
 
 <br/>
 
@@ -10,11 +10,11 @@
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kim2004on@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=6B9FE8)
+![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=58a6ff)
 
 </div>
 
-<br/>
+---
 
 ## 🏢 경력
 
@@ -35,7 +35,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 📂 프로젝트
 
@@ -88,7 +88,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 🛠 기술 스택
 
@@ -105,6 +105,16 @@
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6B9FE8,100:1a1b27&height=120&section=footer" width="100%" />
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doyeon012/doyeon012/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doyeon012/doyeon012/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/doyeon012/doyeon012/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer" width="100%" />
