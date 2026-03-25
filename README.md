@@ -24,11 +24,9 @@
 | 프로젝트 | 설명 |
 |:---|:---|
 | [Circuit Simulator](https://github.com/doyeon012/circuit-simulator#readme) | PyQt5 기반 GUI 회로 시뮬레이터 — 졸업 프로젝트 및 논문 |
-| [Coonnection API](https://github.com/doyeon012/coonnection-api#readme) | 반려동물 입양 매칭 서비스 API 서버 |
-| [Coonnection Front](https://github.com/doyeon012/coonnection-front#readme) | 반려동물 입양 매칭 서비스 클라이언트 |
+| [Coonnection](https://github.com/doyeon012/coonnection-api#readme) | 반려동물 입양 매칭 서비스 (API · Client) |
 | [DevFriend API](https://github.com/Introducing-developer-friends/DevFriend_api#readme) | 개발자 친구 매칭 API 서버 |
 | [MoEasy Backend](https://github.com/doyeon012/MoEasy-backend#readme) | NestJS 기반 백엔드 서비스 |
-| [Coding Test](https://github.com/doyeon012/coding-test#readme) | 백준, 프로그래머스 풀이 |
 
 ---
 
@@ -55,19 +53,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 #### AI
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=doyeon012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6B9FE8&icon_color=6B9FE8&text_color=C9D1D9" width="50%" />
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
