@@ -9,6 +9,7 @@
 <br/>
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kim2004on@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=6B9FE8)
 
 </div>
