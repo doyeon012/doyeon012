@@ -60,12 +60,6 @@
     <td align="center"><code>React</code> <code>NestJS</code> <code>TypeScript</code></td>
   </tr>
   <tr>
-    <td align="center">🔌</td>
-    <td><a href="https://github.com/doyeon012/circuit-simulator#readme"><b>Circuit Simulator</b></a></td>
-    <td>PyQt5 기반 GUI 회로 시뮬레이터 — 캡스톤 디자인 및 논문</td>
-    <td align="center"><code>Python</code> <code>PyQt5</code></td>
-  </tr>
-  <tr>
     <td align="center">💬</td>
     <td><a href="https://github.com/doyeon012/coonnection-front#readme"><b>Coonnection</b></a></td>
     <td>관심사 기반 마스크 비디오 채팅 매칭 웹 서비스</td>
@@ -76,6 +70,12 @@
     <td><a href="https://github.com/doyeon012/pintos-kaist#readme"><b>Pintos OS</b></a></td>
     <td>운영체제 커널 구현 (스레드, 가상메모리, 파일시스템)</td>
     <td align="center"><code>C</code> <code>C++</code></td>
+  </tr>
+  <tr>
+    <td align="center">🔌</td>
+    <td><a href="https://github.com/doyeon012/circuit-simulator#readme"><b>Circuit Simulator</b></a></td>
+    <td>PyQt5 기반 GUI 회로 시뮬레이터 — 캡스톤 디자인 및 논문</td>
+    <td align="center"><code>Python</code> <code>PyQt5</code></td>
   </tr>
   <tr>
     <td align="center">✏️</td>
