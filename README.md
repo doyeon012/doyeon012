@@ -52,8 +52,8 @@
   </tr>
   <tr>
     <td align="center">👥</td>
-    <td><a href="https://github.com/Introducing-developer-friends/DevFriend_api#readme"><b>DevFriend API</b></a></td>
-    <td>개발자 친구 매칭 API 서버</td>
+    <td><a href="https://github.com/Introducing-developer-friends"><b>DevFriend</b></a></td>
+    <td>개발자 친구 매칭 서비스 (API · Front)</td>
     <td align="center"><code>Node.js</code> <code>JavaScript</code></td>
   </tr>
   <tr>
