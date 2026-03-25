@@ -2,7 +2,7 @@
 
 ## 안녕하세요, 김도연입니다
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B9FE8&center=true&vCenter=true&width=450&lines=%EC%BD%94%EB%93%9C+%EC%9E%90%EC%B2%B4%EA%B0%80+%EB%AC%B8%EC%84%9C%EA%B0%80+%EB%90%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
+주니어 소프트웨어 엔지니어 | **Bigmaum** (2025.07 ~)
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=6B9FE8)
@@ -11,13 +11,15 @@
 
 ---
 
-### 소개
+### 프로젝트
 
-> 다시 봐도 이해가 되는 코드, 사용자의 관점에서 바라보는 개발을 지향합니다.
-> 빠른 실행력과 품질 사이의 접점을 끊임없이 찾아가는 주니어 개발자입니다.
-
-- 🏢 **Bigmaum** Software Engineer (2025.07 ~)
-- 🎓 대학 시절 프로젝트 — 매칭 서비스 API, 백엔드 개발, 시스템 프로그래밍 등
+| 프로젝트 | 설명 |
+|:---|:---|
+| [Circuit Simulator](https://github.com/doyeon012/circuit-simulator) | PyQt5 기반 GUI 회로 시뮬레이터 — 졸업 프로젝트 및 논문 |
+| [Coonnection](https://github.com/doyeon012/coonnection-api) | 반려동물 입양 매칭 서비스 API 서버 |
+| [DevFriend](https://github.com/Introducing-developer-friends/DevFriend_api) | 개발자 친구 매칭 API 서버 |
+| [MoEasy](https://github.com/doyeon012/MoEasy-backend) | NestJS 기반 백엔드 서비스 |
+| [Coding Test](https://github.com/doyeon012/coding-test) | 백준, 프로그래머스 풀이 |
 
 ---
 
