@@ -53,7 +53,7 @@
   <tr>
     <td align="center">👥</td>
     <td><a href="https://github.com/Introducing-developer-friends"><b>DevFriend</b></a></td>
-    <td>개발자 친구 매칭 서비스 (React · NestJS)</td>
+    <td>개발자 SNS 및 온라인 명함 서비스</td>
     <td align="center"><code>React</code> <code>NestJS</code> <code>TypeScript</code></td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
   <tr>
     <td align="center">💬</td>
     <td><a href="https://github.com/doyeon012/coonnection-front#readme"><b>Coonnection</b></a></td>
-    <td>관심사 기반 마스크 비디오 채팅 매칭 웹 서비스 (API · Client)</td>
+    <td>관심사 기반 마스크 비디오 채팅 매칭 웹 서비스</td>
     <td align="center"><code>React</code> <code>Node.js</code> <code>WebRTC</code></td>
   </tr>
   <tr>
