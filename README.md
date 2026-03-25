@@ -53,8 +53,8 @@
   <tr>
     <td align="center">👥</td>
     <td><a href="https://github.com/Introducing-developer-friends"><b>DevFriend</b></a></td>
-    <td>개발자 친구 매칭 서비스 (API · Front)</td>
-    <td align="center"><code>Node.js</code> <code>JavaScript</code></td>
+    <td>개발자 친구 매칭 서비스 (React · NestJS)</td>
+    <td align="center"><code>React</code> <code>NestJS</code> <code>TypeScript</code></td>
   </tr>
   <tr>
     <td align="center">🔌</td>
