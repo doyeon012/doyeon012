@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6B9FE8,100:1a1b27&height=220&section=header&text=Kim%20Doyeon&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=22&descAlignY=55&descAlign=50" width="100%" />
 
-<br/>
-
-*사용자 관점에서 생각하고, 읽히는 코드를 쓰며, AI 시대에도 스스로 사고하는 개발자를 지향합니다.*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6B9FE8&center=true&vCenter=true&width=550&lines=%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C+%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0%2C+%EC%9D%BD%ED%9E%88%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%93%B0%EB%A9%B0%2C;AI+%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84+%EC%8A%A4%EC%8A%A4%EB%A1%9C+%EC%82%AC%EA%B3%A0%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,6 +10,10 @@
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=6B9FE8)
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -33,6 +35,10 @@
 </table>
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -89,40 +95,56 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
 ## 🛠 기술 스택
 
 <div align="center">
 
-<table>
-  <tr>
-    <th align="center" width="140">분류</th>
-    <th align="center" width="560">기술</th>
-  </tr>
-  <tr>
-    <td align="center"><b>Language</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Framework</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Infra</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></td>
-  </tr>
-</table>
+<h4>Language</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" />
+</a>
+
+<h4>Framework & Runtime</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,react&theme=dark" />
+</a>
+
+<h4>Database</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+</a>
+<br/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<h4>Infra & Tools</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,notion&theme=dark" />
+</a>
+<br/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+<h4>AI</h4>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=doyeon012&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15" width="80%" />
 
 </div>
 
