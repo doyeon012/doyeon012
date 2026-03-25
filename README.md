@@ -4,15 +4,21 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6B9FE8&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Bigmaum+%ED%98%84%EC%9E%AC+%EC%9E%AC%EC%A7%81%EC%A4%91;%F0%9F%92%BB+Server-Side+Developer;%F0%9F%93%9D+%EC%BD%94%EB%93%9C%EB%A1%9C+%EC%86%8C%ED%86%B5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" /></a>
-
-<br/><br/>
+<br/>
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doyeon012)
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=6B9FE8)
 
 </div>
+
+<br/>
+
+## 🏢 경력
+
+| 기간 | 회사 | 역할 |
+|:---|:---|:---|
+| 2025.07 ~ 현재 | **Bigmaum** | 현재 재직중 |
 
 <br/>
 
