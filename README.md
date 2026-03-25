@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td align="center">2025.07 ~ 현재</td>
-    <td align="center"><b>Bigmaum</b></td>
+    <td align="center"><a href="https://bigmaum.kr/"><b>Bigmaum</b></a></td>
     <td align="center">웹 개발</td>
   </tr>
 </table>
