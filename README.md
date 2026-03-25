@@ -47,14 +47,20 @@
   <tr>
     <td align="center">🔌</td>
     <td><a href="https://github.com/doyeon012/circuit-simulator#readme"><b>Circuit Simulator</b></a></td>
-    <td>GUI 회로 시뮬레이터 — 졸업 프로젝트 및 논문</td>
+    <td>PyQt5 기반 GUI 회로 시뮬레이터 — 졸업 프로젝트 및 논문</td>
     <td align="center"><code>Python</code> <code>PyQt5</code></td>
   </tr>
   <tr>
-    <td align="center">🐾</td>
-    <td><a href="https://github.com/doyeon012/coonnection-api#readme"><b>Coonnection</b></a></td>
-    <td>반려동물 입양 매칭 서비스 (API · Client)</td>
-    <td align="center"><code>Node.js</code> <code>JavaScript</code></td>
+    <td align="center">💬</td>
+    <td><a href="https://github.com/doyeon012/coonnection-front#readme"><b>Coonnection</b></a></td>
+    <td>관심사 기반 마스크 비디오 채팅 매칭 웹 서비스 (API · Client)</td>
+    <td align="center"><code>React</code> <code>Node.js</code> <code>WebRTC</code></td>
+  </tr>
+  <tr>
+    <td align="center">📅</td>
+    <td><a href="https://github.com/doyeon012/MoEasy-backend#readme"><b>MoEasy</b></a></td>
+    <td>모임을 쉽게 — 모임 관리 웹앱 백엔드</td>
+    <td align="center"><code>NestJS</code> <code>TypeScript</code></td>
   </tr>
   <tr>
     <td align="center">👥</td>
@@ -63,19 +69,31 @@
     <td align="center"><code>Node.js</code> <code>JavaScript</code></td>
   </tr>
   <tr>
-    <td align="center">🚀</td>
-    <td><a href="https://github.com/doyeon012/MoEasy-backend#readme"><b>MoEasy Backend</b></a></td>
-    <td>NestJS 기반 백엔드 서비스</td>
-    <td align="center"><code>NestJS</code> <code>TypeScript</code></td>
-  </tr>
-  <tr>
-    <td align="center">🖧</td>
+    <td align="center">🖥</td>
     <td><a href="https://github.com/doyeon012/pintos-kaist#readme"><b>Pintos OS</b></a></td>
-    <td>KAIST OS 과제 — 운영체제 커널 구현</td>
+    <td>운영체제 커널 구현 (스레드, 가상메모리, 파일시스템)</td>
     <td align="center"><code>C</code> <code>C++</code></td>
   </tr>
   <tr>
+    <td align="center">🌐</td>
+    <td><a href="https://github.com/doyeon012/webproxy-lab#readme"><b>Web Proxy</b></a></td>
+    <td>HTTP 웹 프록시 서버 구현</td>
+    <td align="center"><code>C</code></td>
+  </tr>
+  <tr>
+    <td align="center">🌳</td>
+    <td><a href="https://github.com/doyeon012/rbtree-lab#readme"><b>Red-Black Tree</b></a></td>
+    <td>Red-Black Tree 자료구조 C 구현</td>
+    <td align="center"><code>C</code></td>
+  </tr>
+  <tr>
     <td align="center">🧱</td>
+    <td><a href="https://github.com/doyeon012/malloc-lab#readme"><b>Malloc Lab</b></a></td>
+    <td>동적 메모리 할당기 구현</td>
+    <td align="center"><code>C</code></td>
+  </tr>
+  <tr>
+    <td align="center">📚</td>
     <td><a href="https://github.com/doyeon012/Data-Structures#readme"><b>Data Structures</b></a></td>
     <td>자료구조 구현 실습 (LinkedList, Stack, Queue, Tree)</td>
     <td align="center"><code>C</code></td>
