@@ -1,8 +1,6 @@
 <div align="center">
 
-# 김도연
-
-소프트웨어 엔지니어
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B9FE8&height=200&section=header&text=Kim%20Doyeon&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=6B9FE8)
@@ -11,15 +9,18 @@
 
 ---
 
-### 경력
+### 🏢 경력
 
-> **Bigmaum** — 소프트웨어 엔지니어
->
-> `2025.07 ~ 현재 재직중`
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://img.shields.io/badge/2025.07~-6B9FE8?style=flat-square&logoColor=white" /></td>
+    <td><b>Bigmaum</b> — 현재 재직중</td>
+  </tr>
+</table>
 
 ---
 
-### 프로젝트
+### 📂 프로젝트
 
 | 프로젝트 | 설명 |
 |:---|:---|
@@ -30,7 +31,7 @@
 
 ---
 
-### 기술 스택
+### 🛠 기술 스택
 
 <div align="center">
 
@@ -62,3 +63,5 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B9FE8&height=120&section=footer" width="100%" />
