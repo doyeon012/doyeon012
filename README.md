@@ -74,30 +74,6 @@
     <td>운영체제 커널 구현 (스레드, 가상메모리, 파일시스템)</td>
     <td align="center"><code>C</code> <code>C++</code></td>
   </tr>
-  <tr>
-    <td align="center">🌐</td>
-    <td><a href="https://github.com/doyeon012/webproxy-lab#readme"><b>Web Proxy</b></a></td>
-    <td>HTTP 웹 프록시 서버 구현</td>
-    <td align="center"><code>C</code></td>
-  </tr>
-  <tr>
-    <td align="center">🌳</td>
-    <td><a href="https://github.com/doyeon012/rbtree-lab#readme"><b>Red-Black Tree</b></a></td>
-    <td>Red-Black Tree 자료구조 C 구현</td>
-    <td align="center"><code>C</code></td>
-  </tr>
-  <tr>
-    <td align="center">🧱</td>
-    <td><a href="https://github.com/doyeon012/malloc-lab#readme"><b>Malloc Lab</b></a></td>
-    <td>동적 메모리 할당기 구현</td>
-    <td align="center"><code>C</code></td>
-  </tr>
-  <tr>
-    <td align="center">📚</td>
-    <td><a href="https://github.com/doyeon012/Data-Structures#readme"><b>Data Structures</b></a></td>
-    <td>자료구조 구현 실습 (LinkedList, Stack, Queue, Tree)</td>
-    <td align="center"><code>C</code></td>
-  </tr>
 </table>
 
 </div>
@@ -119,7 +95,7 @@
   </tr>
   <tr>
     <td align="center"><b>Framework</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
