@@ -59,7 +59,7 @@
   <tr>
     <td align="center">🔌</td>
     <td><a href="https://github.com/doyeon012/circuit-simulator#readme"><b>Circuit Simulator</b></a></td>
-    <td>PyQt5 기반 GUI 회로 시뮬레이터 — 졸업 프로젝트 및 논문</td>
+    <td>PyQt5 기반 GUI 회로 시뮬레이터 — 캡스톤 디자인 및 논문</td>
     <td align="center"><code>Python</code> <code>PyQt5</code></td>
   </tr>
   <tr>
@@ -73,6 +73,12 @@
     <td><a href="https://github.com/doyeon012/pintos-kaist#readme"><b>Pintos OS</b></a></td>
     <td>운영체제 커널 구현 (스레드, 가상메모리, 파일시스템)</td>
     <td align="center"><code>C</code> <code>C++</code></td>
+  </tr>
+  <tr>
+    <td align="center">✏️</td>
+    <td><a href="https://github.com/doyeon012/coding-test#readme"><b>Coding Test</b></a></td>
+    <td>백준, 프로그래머스 알고리즘 및 DB 문제 풀이</td>
+    <td align="center"><code>Python</code> <code>SQL</code></td>
   </tr>
 </table>
 
