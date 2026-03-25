@@ -4,7 +4,7 @@
 
 <br/>
 
-*사용자 관점에서 생각하고, 읽히는 코드를 쓰며, AI 시대에도 스스로 사고하는 개발자를 지향합니다.*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=400&size=16&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=480&lines=%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C+%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0%2C+%EC%9D%BD%ED%9E%88%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%93%B0%EB%A9%B0%2C;AI+%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84+%EC%8A%A4%EC%8A%A4%EB%A1%9C+%EC%82%AC%EA%B3%A0%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -93,36 +93,14 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <th align="center" width="140">분류</th>
-    <th align="center" width="560">기술</th>
-  </tr>
-  <tr>
-    <td align="center"><b>Language</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Framework</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Infra</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></td>
-  </tr>
-</table>
+| 분류 | |
+|:---:|:---:|
+| **Language** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" height="40" /></a> |
+| **Framework** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,nodejs,react&theme=dark" height="40" /></a> |
+| **Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="40" /></a> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> |
+| **Infra** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,git&theme=dark" height="40" /></a> |
+| **Tools** | <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> |
+| **AI** | <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> |
 
 </div>
 
