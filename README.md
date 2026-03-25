@@ -4,6 +4,10 @@
 
 <br/>
 
+*사용자의 관점에서 생각하고, 읽히는 코드를 짜며, 속도와 품질의 균형을 찾아가는 개발자입니다.*
+
+<br/>
+
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=6B9FE8)
 
@@ -77,7 +81,7 @@
     <td align="center">✏️</td>
     <td><a href="https://github.com/doyeon012/coding-test#readme"><b>Coding Test</b></a></td>
     <td>백준, 프로그래머스 알고리즘 및 DB 문제 풀이</td>
-    <td align="center"><code>Python</code> <code>SQL</code></td>
+    <td align="center"><code>Python</code> <code>Java</code> <code>SQL</code></td>
   </tr>
 </table>
 
