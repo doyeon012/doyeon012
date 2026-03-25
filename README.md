@@ -98,8 +98,8 @@
 | **Language** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" height="40" /></a> |
 | **Framework** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,nodejs,react&theme=dark" height="40" /></a> |
 | **Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="40" /></a> <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb,mssql&theme=dark" height="40" /> |
-| **Infra** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,git&theme=dark" height="40" /></a> |
-| **Tools** | <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> |
+| **Infra** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,git,nginx&theme=dark" height="40" /></a> |
+| **Tools** | <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /> |
 | **AI** | <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> |
 
 </div>
