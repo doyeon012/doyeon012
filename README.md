@@ -45,12 +45,6 @@
     <th align="center" width="180">기술</th>
   </tr>
   <tr>
-    <td align="center">💬</td>
-    <td><a href="https://github.com/doyeon012/coonnection-front#readme"><b>Coonnection</b></a></td>
-    <td>관심사 기반 마스크 비디오 채팅 매칭 웹 서비스 (API · Client)</td>
-    <td align="center"><code>React</code> <code>Node.js</code> <code>WebRTC</code></td>
-  </tr>
-  <tr>
     <td align="center">📅</td>
     <td><a href="https://github.com/doyeon012/MoEasy-backend#readme"><b>MoEasy</b></a></td>
     <td>모임을 쉽게 — 모임 관리 웹앱 백엔드</td>
@@ -67,6 +61,12 @@
     <td><a href="https://github.com/doyeon012/circuit-simulator#readme"><b>Circuit Simulator</b></a></td>
     <td>PyQt5 기반 GUI 회로 시뮬레이터 — 졸업 프로젝트 및 논문</td>
     <td align="center"><code>Python</code> <code>PyQt5</code></td>
+  </tr>
+  <tr>
+    <td align="center">💬</td>
+    <td><a href="https://github.com/doyeon012/coonnection-front#readme"><b>Coonnection</b></a></td>
+    <td>관심사 기반 마스크 비디오 채팅 매칭 웹 서비스 (API · Client)</td>
+    <td align="center"><code>React</code> <code>Node.js</code> <code>WebRTC</code></td>
   </tr>
   <tr>
     <td align="center">🖥</td>
