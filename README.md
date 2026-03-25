@@ -2,7 +2,7 @@
 
 ## 안녕하세요, 김도연입니다
 
-주니어 개발자
+Software Engineer
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=6B9FE8)
