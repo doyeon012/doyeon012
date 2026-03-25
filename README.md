@@ -1,8 +1,8 @@
 <div align="center">
 
-## 안녕하세요, 김도연입니다
+# Doyeon Kim
 
-Software Engineer
+**Software Engineer** who builds things that matter.
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=6B9FE8)
@@ -13,9 +13,11 @@ Software Engineer
 
 ### 경력
 
-| 기간 | 회사 | 역할 |
-|:---|:---|:---|
-| 2025.07 ~ 현재 | **Bigmaum** | Software Engineer |
+> **Bigmaum** — Software Engineer
+>
+> `2025.07 ~ 현재`
+>
+> NestJS · TypeScript 기반 서버 사이드 웹 서비스 개발
 
 ---
 
