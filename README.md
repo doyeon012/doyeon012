@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=400&size=14&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=580&lines=%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C+%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0%2C+%EC%9D%BD%ED%9E%88%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%93%B0%EB%A9%B0%2C+AI+%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84+%EC%8A%A4%EC%8A%A4%EB%A1%9C+%EC%82%AC%EA%B3%A0%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=400&size=14&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=620&lines=%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C+%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0%2C+%EC%9D%BD%ED%9E%88%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%93%B0%EB%A9%B0%2C+AI+%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84+%EC%8A%A4%EC%8A%A4%EB%A1%9C+%EC%82%AC%EA%B3%A0%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 
 <br/>
 
