@@ -69,12 +69,6 @@
     <td align="center"><code>NestJS</code> <code>TypeScript</code></td>
   </tr>
   <tr>
-    <td align="center">🖥</td>
-    <td><a href="https://github.com/doyeon012/denode-kimdoyeon#readme"><b>Denode</b></a></td>
-    <td>Docker + NestJS 기반 서비스</td>
-    <td align="center"><code>TypeScript</code> <code>Docker</code></td>
-  </tr>
-  <tr>
     <td align="center">🖧</td>
     <td><a href="https://github.com/doyeon012/pintos-kaist#readme"><b>Pintos OS</b></a></td>
     <td>KAIST OS 과제 — 운영체제 커널 구현</td>
@@ -111,7 +105,7 @@
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center"><b>Infra</b></td>
@@ -119,7 +113,7 @@
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center"><b>AI</b></td>
