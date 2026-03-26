@@ -10,6 +10,7 @@
 
 [![Velog](https://img.shields.io/badge/기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kim2004on/posts)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kim2004on@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%84%EC%97%B0-%EA%B9%80-275887323/)
 ![Visitors](https://komarev.com/ghpvc/?username=doyeon012&style=for-the-badge&color=58a6ff)
 
 </div>
@@ -76,7 +77,7 @@
     <td align="center">🔌</td>
     <td><a href="https://github.com/doyeon012/circuit-simulator#readme"><b>Circuit Simulator</b></a></td>
     <td>PyQt5 기반 GUI 회로 시뮬레이터 — 캡스톤 디자인 및 논문</td>
-    <td align="center"><code>Python</code> <code>PyQt5</code></td>
+    <td align="center"><code>Python</code></td>
   </tr>
   <tr>
     <td align="center">✏️</td>
