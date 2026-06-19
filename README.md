@@ -30,7 +30,7 @@
   <tr>
     <td align="center">2025.07 ~ 현재</td>
     <td align="center"><a href="https://bigmaum.kr/"><b>Bigmaum</b></a></td>
-    <td align="center">웹 개발</td>
+    <td align="center">VOC · 퍼실리티 · 조직도 등 웹 개발</td>
   </tr>
 </table>
 
@@ -73,18 +73,6 @@
     <td>운영체제 커널 구현 (스레드, 가상메모리, 파일시스템)</td>
     <td align="center"><code>C</code> <code>C++</code></td>
   </tr>
-  <tr>
-    <td align="center">🔌</td>
-    <td><a href="https://github.com/doyeon012/circuit-simulator#readme"><b>Circuit Simulator</b></a></td>
-    <td>GUI 회로 시뮬레이터 — 졸업논문</td>
-    <td align="center"><code>Python</code></td>
-  </tr>
-  <tr>
-    <td align="center">✏️</td>
-    <td><a href="https://github.com/doyeon012/coding-test#readme"><b>Coding Test</b></a></td>
-    <td>백준, 프로그래머스 알고리즘 및 DB 문제 풀이</td>
-    <td align="center"><code>Python</code> <code>Java</code> <code>SQL</code></td>
-  </tr>
 </table>
 
 </div>
@@ -99,10 +87,9 @@
 |:---:|:---:|
 | **Language** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" height="40" /></a> |
 | **Framework** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,nodejs,react&theme=dark" height="40" /></a> |
-| **Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="40" /></a> <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb,mssql&theme=dark" height="40" /> |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
 | **Infra** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,git,nginx&theme=dark" height="40" /></a> |
 | **Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=notion,slack,jira,swagger&theme=dark" height="40" /> |
-| **AI** | <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini&theme=dark" height="40" /> |
 
 </div>
 
