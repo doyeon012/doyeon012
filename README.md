@@ -67,12 +67,6 @@
     <td>관심사 기반 비디오 채팅 매칭 웹 서비스 (크래프톤 정글 5기)</td>
     <td align="center"><code>React</code> <code>Node.js</code> <code>WebRTC</code></td>
   </tr>
-  <tr>
-    <td align="center">🖥</td>
-    <td><a href="https://github.com/doyeon012/pintos-kaist#readme"><b>Pintos OS</b></a></td>
-    <td>운영체제 커널 구현 (스레드, 가상메모리, 파일시스템)</td>
-    <td align="center"><code>C</code> <code>C++</code></td>
-  </tr>
 </table>
 
 </div>
@@ -86,8 +80,8 @@
 | 분류 | |
 |:---:|:---:|
 | **Language** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" height="40" /></a> |
-| **Framework** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,nodejs,react&theme=dark" height="40" /></a> |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
+| **Framework** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,react&theme=dark" height="40" /></a> |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | **Infra** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,git,nginx&theme=dark" height="40" /></a> |
 | **Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=notion,slack,jira,swagger&theme=dark" height="40" /> |
 
