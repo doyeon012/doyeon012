@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=400&size=14&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=620&lines=%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C+%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0%2C+%EC%9D%BD%ED%9E%88%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%93%B0%EB%A9%B0%2C+AI+%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84+%EC%8A%A4%EC%8A%A4%EB%A1%9C+%EC%82%AC%EA%B3%A0%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=400&size=14&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=620&lines=%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C+%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0%2C+%EC%9D%BD%ED%9E%88%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%93%B0%EB%A9%B0%2C+AI+%EC%8B%9C%EB%8C%80%EC%97%90%EB%8F%84+%EC%8A%A4%EC%8A%A4%EB%A1%9C+%EC%82%AC%EA%B3%A0%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9D%84+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,14 +23,19 @@
 
 <table>
   <tr>
-    <th align="center" width="200">기간</th>
-    <th align="center" width="250">회사</th>
-    <th align="center" width="250">역할</th>
+    <th align="center" width="150">기간</th>
+    <th align="center" width="130">회사</th>
+    <th align="center" width="360">역할</th>
+    <th align="center" width="180">기술</th>
   </tr>
   <tr>
-    <td align="center">2025.07 ~ 현재</td>
-    <td align="center"><a href="https://bigmaum.kr/"><b>Bigmaum</b></a></td>
-    <td align="center">VOC · 퍼실리티 · 조직도 등 웹 개발</td>
+    <td align="center" rowspan="2">2025.07 ~ 현재</td>
+    <td align="center" rowspan="2"><a href="https://bigmaum.kr/"><b>Bigmaum</b></a></td>
+    <td align="center">기아 · 현대모비스 해외 법인 사내 웹 시스템 개발<br/><sub>VOC 실시간 스트리밍 · 시설 관리/EHS 포털</sub></td>
+    <td align="center" rowspan="2"><code>Express.js</code> <code>Vanilla JS</code><br/><code>NestJS</code> <code>Next.js</code></td>
+  </tr>
+  <tr>
+    <td align="center">Org Chart 솔루션 개발</td>
   </tr>
 </table>
 
@@ -58,7 +63,7 @@
   <tr>
     <td align="center">👥</td>
     <td><a href="https://github.com/Introducing-developer-friends"><b>DevFriend</b></a></td>
-    <td>개발자 SNS 및 온라인 명함 서비스 (개인 풀스택)</td>
+    <td>개발자 SNS 및 온라인 명함 서비스 (백엔드 단독, 프론트 공동)</td>
     <td align="center"><code>React</code> <code>NestJS</code></td>
   </tr>
   <tr>
@@ -80,9 +85,10 @@
 | 분류 | |
 |:---:|:---:|
 | **Language** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" height="40" /></a> |
-| **Framework** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,react&theme=dark" height="40" /></a> |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
-| **Infra** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,git,nginx&theme=dark" height="40" /></a> |
+| **Framework** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react&theme=dark" height="40" /></a> |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTEyIDJDNi41IDIgMyAzLjggMyA2djEyYzAgMi4yIDMuNSA0IDkgNHM5LTEuOCA5LTRWNmMwLTIuMi0zLjUtNC05LTR6bTAgMmM0LjYgMCA3IDEuNCA3IDJzLTIuNCAyLTcgMi03LTEuNC03LTIgMi40LTIgNy0yek01IDguOGMxLjYuOSA0LjEgMS41IDcgMS41czUuNC0uNiA3LTEuNVYxMmMwIC42LTIuNCAyLTcgMnMtNy0xLjQtNy0yem0wIDZjMS42LjkgNC4xIDEuNSA3IDEuNXM1LjQtLjYgNy0xLjVWMThjMCAuNi0yLjQgMi03IDJzLTctMS40LTctMnoiLz48L3N2Zz4%3D&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **Infra** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,git,githubactions&theme=dark" height="40" /></a> ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white) |
+| **Visualization** | ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logoColor=white) ![GoJS](https://img.shields.io/badge/GoJS-00A9E0?style=for-the-badge&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white) |
 | **Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=notion,slack,jira,swagger&theme=dark" height="40" /> |
 
 </div>
