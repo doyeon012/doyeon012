@@ -31,7 +31,7 @@
   <tr>
     <td align="center" rowspan="2">2025.07 ~ 현재</td>
     <td align="center" rowspan="2"><a href="https://bigmaum.kr/"><b>Bigmaum</b></a></td>
-    <td align="center">VOC 실시간 스트리밍 · 퍼실리티/EHS 포털 개발<br/><sub>인사시스템 개발 (인도 · 미국 · 중국)</sub></td>
+    <td align="center">VOC 실시간 스트리밍 · Facility/EHS 포털 개발<br/><sub>인사시스템 개발 (US · CN · IN)</sub></td>
     <td align="center" rowspan="2"><code>Express.js</code> <code>Vanilla JS</code><br/><code>NestJS</code> <code>Next.js</code></td>
   </tr>
   <tr>
