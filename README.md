@@ -31,7 +31,7 @@
   <tr>
     <td align="center">2025.07 ~ 현재</td>
     <td align="center"><a href="https://bigmaum.kr/"><b>Bigmaum</b></a></td>
-    <td align="center">백엔드 기반 풀스택 개발자<br/><sub>인사(HR) 시스템 개발 · 서버 배포 · 운영</sub></td>
+    <td align="center">백엔드 기반 풀스택 개발자</td>
     <td align="center"><code>NestJS</code> <code>Node.js</code><br/><code>Next.js</code> <code>React</code></td>
   </tr>
 </table>
