@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=220&section=header&text=Kim%20Doyeon&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=22&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=220&section=header&text=Kim%20Doyeon&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend-based%20Full-stack%20Developer&descSize=22&descAlignY=55&descAlign=50" width="100%" />
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=400&size=15&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=620&lines=%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%EA%B9%80%EB%8F%84%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4.;%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80+%EC%86%90%EC%9C%BC%EB%A1%9C+%EB%B0%98%EB%B3%B5%ED%95%98%EB%8A%94+%EC%9D%BC%EC%9D%84+%EB%A8%BC%EC%A0%80+%EC%B0%BE%EC%95%84+%EC%97%86%EC%95%B1%EB%8B%88%EB%8B%A4.;%EC%9A%94%EA%B5%AC%EA%B0%80+%EB%B0%94%EB%80%8C%EC%96%B4%EB%8F%84+%EA%B0%88%EC%95%84%EC%97%8E%EC%A7%80+%EC%95%8A%EB%8A%94+%EA%B5%AC%EC%A1%B0%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=400&size=15&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=620&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B8%B0%EB%B0%98+%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EB%8F%84%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4.;%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80+%EC%86%90%EC%9C%BC%EB%A1%9C+%EB%B0%98%EB%B3%B5%ED%95%98%EB%8A%94+%EC%9D%BC%EC%9D%84+%EB%A8%BC%EC%A0%80+%EC%B0%BE%EC%95%84+%EC%97%86%EC%95%B1%EB%8B%88%EB%8B%A4.;%EC%9A%94%EA%B5%AC%EA%B0%80+%EB%B0%94%EB%80%8C%EC%96%B4%EB%8F%84+%EA%B0%88%EC%95%84%EC%97%8E%EC%A7%80+%EC%95%8A%EB%8A%94+%EA%B5%AC%EC%A1%B0%EB%A5%BC+%EA%B3%A0%EB%AF%BC%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -31,7 +31,7 @@
   <tr>
     <td align="center">2025.07 ~ 현재</td>
     <td align="center"><a href="https://bigmaum.kr/"><b>Bigmaum</b></a></td>
-    <td align="center">소프트웨어 엔지니어<br/><sub>웹 · 포털 · 시스템 개발부터 서버 운영까지</sub></td>
+    <td align="center">백엔드 기반 풀스택 개발자<br/><sub>인사(HR) 시스템 개발 · 서버 배포 · 운영</sub></td>
     <td align="center"><code>NestJS</code> <code>Node.js</code><br/><code>Next.js</code> <code>React</code></td>
   </tr>
 </table>
